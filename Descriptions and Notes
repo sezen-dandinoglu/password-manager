@@ -1,0 +1,26 @@
+We will implement a PasswordManager.
+It wıll generate a password and store it. Lie Apple Password mobile application
+We will use Tkinter
+Inputs are Website, Email/Username, Password (They are Entry)
+When we hit Generate Password button (Button), it will generate a password.
+Add button will open a pop-up window and will ask about your input and generated password (Yes, No buttons)
+If YES, the data will be saved to a text file, on your local.
+Fields won't be empty
+Newly generated password can be copied.
+
+Window:
+Title: Password Manager
+Canvas will have Height: 200px, Width:200 px, Padding:20 px (for all sides)
+Image will bang ınto the center
+
+
+try:
+-Something that might cause an exception
+except:
+-Do this if there WAS an exception
+except:
+...
+else:
+-Do this if there were NO exceptions
+finally:
+-Do this no matter what happens...No matter what run this section/code
